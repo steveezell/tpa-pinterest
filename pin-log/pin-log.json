@@ -1,0 +1,67 @@
+{
+  "pins": [
+    {
+      "date": "2026-03-09",
+      "slug": "how-to-talk-to-your-daughter-about-her-first-period",
+      "variant": "title-card",
+      "filename": "pin-how-to-talk-first-period-title-card-20260309.png",
+      "board": "talking-to-your-daughter-about-puberty"
+    },
+    {
+      "date": "2026-03-09",
+      "slug": "what-age-to-talk-to-kids-about-periods",
+      "variant": "tip-list",
+      "filename": "pin-what-age-period-talk-tip-list-20260309.png",
+      "board": "period-education-for-kids"
+    },
+    {
+      "date": "2026-03-09",
+      "slug": "first-period-kit-what-to-include",
+      "variant": "question-hook",
+      "filename": "pin-first-period-kit-question-hook-20260309.png",
+      "board": "first-period-tips-advice"
+    },
+    {
+      "date": "2026-03-10",
+      "slug": "how-to-talk-to-boys-about-periods",
+      "variant": "tip-list",
+      "filename": "pin-period-talk-boys-tip-list-20260310.png",
+      "board": "period-education-for-kids"
+    },
+    {
+      "date": "2026-03-10",
+      "slug": "why-schools-dont-teach-enough-about-periods",
+      "variant": "stat-card",
+      "filename": "pin-schools-period-education-stat-card-20260310.png",
+      "board": "period-education-for-kids"
+    },
+    {
+      "date": "2026-03-10",
+      "slug": "how-to-talk-to-your-daughter-about-her-first-period",
+      "variant": "quote-pull",
+      "filename": "pin-talk-daughter-first-period-quote-pull-20260310.png",
+      "board": "talking-to-your-daughter-about-puberty"
+    },
+    {
+      "date": "2026-03-11",
+      "slug": "how-to-talk-to-boys-about-periods",
+      "variant": "title-card",
+      "filename": "pin-period-talk-boys-title-card-20260311.png",
+      "board": "period-education-for-kids"
+    },
+    {
+      "date": "2026-03-11",
+      "slug": "what-age-to-talk-to-kids-about-periods",
+      "variant": "question-hook",
+      "filename": "pin-what-age-period-talk-question-hook-20260311.png",
+      "board": "period-education-for-kids"
+    },
+    {
+      "date": "2026-03-11",
+      "slug": "standalone",
+      "variant": "myth-buster",
+      "filename": "pin-mythbuster-boys-periods-20260311.png",
+      "board": "period-education-for-kids"
+    }
+  ]
+}
