@@ -83,6 +83,27 @@
       "variant": "celebration",
       "filename": "pin-celebration-period-confidence-20260312.png",
       "board": "period-education-for-kids"
+    },
+    {
+      "date": "2026-03-13",
+      "slug": "period-talk-for-boys",
+      "variant": "tip-list",
+      "filename": "pin-period-talk-boys-tip-list-20260313.png",
+      "board": "period-education-for-kids"
+    },
+    {
+      "date": "2026-03-13",
+      "slug": "first-period-kit-what-to-include",
+      "variant": "stat-card",
+      "filename": "pin-first-period-kit-stat-card-20260313.png",
+      "board": "first-period-tips-advice"
+    },
+    {
+      "date": "2026-03-13",
+      "slug": "standalone",
+      "variant": "affirmation",
+      "filename": "pin-affirmation-scared-prepared-20260313.png",
+      "board": "period-education-for-kids"
     }
   ]
 }
