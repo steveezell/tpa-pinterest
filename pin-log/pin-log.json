@@ -104,6 +104,33 @@
       "variant": "affirmation",
       "filename": "pin-affirmation-scared-prepared-20260313.png",
       "board": "period-education-for-kids"
+    },
+    {
+      "date": "2026-03-14",
+      "slug": "why-schools-dont-teach-enough-about-periods",
+      "variant": "title-card",
+      "filename": "pin-schools-period-education-title-card-20260314.png",
+      "board": "period-education-for-kids",
+      "status": "pending-manual-post",
+      "scheduled_time": "9:00 AM Pacific"
+    },
+    {
+      "date": "2026-03-14",
+      "slug": "what-age-to-talk-to-kids-about-periods",
+      "variant": "quote-pull",
+      "filename": "pin-what-age-period-talk-quote-pull-20260314.png",
+      "board": "period-education-for-kids",
+      "status": "pending-manual-post",
+      "scheduled_time": "12:00 PM Pacific"
+    },
+    {
+      "date": "2026-03-14",
+      "slug": "standalone",
+      "variant": "did-you-know",
+      "filename": "pin-did-you-know-first-period-window-20260314.png",
+      "board": "period-education-for-kids",
+      "status": "pending-manual-post",
+      "scheduled_time": "5:00 PM Pacific"
     }
   ]
 }
