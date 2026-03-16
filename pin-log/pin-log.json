@@ -131,6 +131,33 @@
       "board": "period-education-for-kids",
       "status": "pending-manual-post",
       "scheduled_time": "5:00 PM Pacific"
+    },
+    {
+      "date": "2026-03-16",
+      "slug": "how-to-talk-to-your-daughter-about-her-first-period",
+      "variant": "tip-list",
+      "filename": "pin-talk-daughter-first-period-tip-list-20260316.png",
+      "board": "talking-to-your-daughter-about-puberty",
+      "status": "pending-manual-post",
+      "scheduled_time": "9:00 AM Pacific"
+    },
+    {
+      "date": "2026-03-16",
+      "slug": "period-talk-for-boys",
+      "variant": "stat-card",
+      "filename": "pin-period-talk-boys-stat-card-20260316.png",
+      "board": "period-education-for-kids",
+      "status": "pending-manual-post",
+      "scheduled_time": "12:00 PM Pacific"
+    },
+    {
+      "date": "2026-03-16",
+      "slug": "standalone",
+      "variant": "myth-buster",
+      "filename": "pin-mythbuster-period-talk-ongoing-20260316.png",
+      "board": "period-education-for-kids",
+      "status": "pending-manual-post",
+      "scheduled_time": "5:00 PM Pacific"
     }
   ]
 }
