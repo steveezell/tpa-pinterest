@@ -158,8 +158,8 @@
       "board": "period-education-for-kids",
       "status": "pending-manual-post",
       "scheduled_time": "5:00 PM Pacific"
-    }
-    ,{
+    },
+    {
       "date": "2026-03-17",
       "slug": "first-period-kit-what-to-include",
       "variant": "title-card",
@@ -180,7 +180,7 @@
       "status": "posted",
       "posted_date": "2026-03-17",
       "title": "Is Your Child Getting Enough Period Education at School?",
-      "description": "Most schools cover periods in one 30-minute session — and boys are often left out entirely. A nurse-midwife explains how parents can fill the gap. Read more at theperiodacademy.com",
+      "description": "Most schools cover periods in one 30-minute session \u2014 and boys are often left out entirely. A nurse-midwife explains how parents can fill the gap. Read more at theperiodacademy.com",
       "destination_link": "https://theperiodacademy.com/blog/why-schools-dont-teach-enough-about-periods"
     },
     {
@@ -204,7 +204,7 @@
       "status": "posted",
       "posted_date": "2026-03-20",
       "title": "15% of Girls Get Their First Period Before Age 11",
-      "description": "Most parents wait until they see the signs — but the average first period is age 12, and 15% of girls start before 11. A certified nurse-midwife explains why starting the conversation at age 8 changes everything. Read more at theperiodacademy.com",
+      "description": "Most parents wait until they see the signs \u2014 but the average first period is age 12, and 15% of girls start before 11. A certified nurse-midwife explains why starting the conversation at age 8 changes everything. Read more at theperiodacademy.com",
       "destination_link": "https://theperiodacademy.com/blog/what-age-to-talk-to-kids-about-periods",
       "image_url": "https://raw.githubusercontent.com/steveezell/tpa-pinterest/main/images/2026/03/pin-what-age-period-talk-stat-card-20260320.png"
     },
@@ -217,7 +217,7 @@
       "status": "posted",
       "posted_date": "2026-03-20",
       "title": "Does Your Son Know What a Period Is?",
-      "description": "Boys who grow up understanding periods become more empathetic adults — and less likely to add to the shame girls already feel. A nurse-midwife explains why the period talk belongs to boys too. Read more at theperiodacademy.com",
+      "description": "Boys who grow up understanding periods become more empathetic adults \u2014 and less likely to add to the shame girls already feel. A nurse-midwife explains why the period talk belongs to boys too. Read more at theperiodacademy.com",
       "destination_link": "https://theperiodacademy.com/blog/period-talk-for-boys",
       "image_url": "https://raw.githubusercontent.com/steveezell/tpa-pinterest/main/images/2026/03/pin-period-talk-boys-question-hook-20260320.png"
     },
@@ -230,7 +230,7 @@
       "status": "posted",
       "posted_date": "2026-03-20",
       "title": "Starting the Period Talk Is the Hardest Part",
-      "description": "Every parent who has had this conversation says the same thing: it gets easier every time. Period confidence starts at home — and it starts with one brave conversation. theperiodacademy.com",
+      "description": "Every parent who has had this conversation says the same thing: it gets easier every time. Period confidence starts at home \u2014 and it starts with one brave conversation. theperiodacademy.com",
       "destination_link": "https://theperiodacademy.com",
       "image_url": "https://raw.githubusercontent.com/steveezell/tpa-pinterest/main/images/2026/03/pin-affirmation-conversation-remember-20260320.png"
     },
@@ -243,7 +243,7 @@
       "status": "posted",
       "posted_date": "2026-03-20",
       "title": "62% of Girls Feel Unprepared for Their First Period",
-      "description": "Most schools cover periods in under 30 minutes a year — and it shows. A certified nurse-midwife explains what parents can do right now to change that. Learn more at theperiodacademy.com",
+      "description": "Most schools cover periods in under 30 minutes a year \u2014 and it shows. A certified nurse-midwife explains what parents can do right now to change that. Learn more at theperiodacademy.com",
       "destination_link": "https://theperiodacademy.com/blog/what-age-to-talk-to-kids-about-periods",
       "image_url": "https://raw.githubusercontent.com/steveezell/tpa-pinterest/main/images/2026/03/pin-girls-unprepared-stat-card-20260320.png"
     },
@@ -256,7 +256,7 @@
       "status": "posted",
       "posted_date": "2026-03-20",
       "title": "5 Signs Your Daughter Is Approaching Her First Period",
-      "description": "Breast buds, body hair, height spurts, discharge, and mood changes — a certified nurse-midwife walks you through every sign to watch for. Learn more at theperiodacademy.com",
+      "description": "Breast buds, body hair, height spurts, discharge, and mood changes \u2014 a certified nurse-midwife walks you through every sign to watch for. Learn more at theperiodacademy.com",
       "destination_link": "https://theperiodacademy.com/blog/how-to-talk-to-your-daughter-about-her-first-period",
       "image_url": "https://raw.githubusercontent.com/steveezell/tpa-pinterest/main/images/2026/03/pin-signs-first-period-tip-list-20260320.png"
     },
@@ -269,9 +269,51 @@
       "status": "posted",
       "posted_date": "2026-03-20",
       "title": "How to Start the Period Talk Before She Has to Ask",
-      "description": "Most kids say they wish their parents had talked to them sooner. A nurse-midwife shows you exactly how to open the conversation — before it feels urgent. Learn more at theperiodacademy.com",
+      "description": "Most kids say they wish their parents had talked to them sooner. A nurse-midwife shows you exactly how to open the conversation \u2014 before it feels urgent. Learn more at theperiodacademy.com",
       "destination_link": "https://theperiodacademy.com/blog/how-to-talk-to-your-daughter-about-her-first-period",
       "image_url": "https://raw.githubusercontent.com/steveezell/tpa-pinterest/main/images/2026/03/pin-how-to-start-period-talk-quote-pull-20260320.png"
+    },
+    {
+      "slug": "average-first-period-age",
+      "type": "stat-card",
+      "title": "Average First Period Age Is 12.3 \u2014 But Many Start Earlier",
+      "body": "The average age for a first period is 12.3, but 1 in 6 girls starts before age 11. One in six.",
+      "board": "period-education-for-kids",
+      "board_id": "1126533362981206027",
+      "link_url": "https://theperiodacademy.com",
+      "status": "posted_image_ready",
+      "posted_date": "2026-03-20",
+      "pinterest_pin_id": null,
+      "image_url": "https://raw.githubusercontent.com/steveezell/tpa-pinterest/main/images/2026/03/pin-average-first-period-age-20260320.png",
+      "notes": "Pinterest posting failed: token missing boards:write scope. Image on GitHub, ready to post manually."
+    },
+    {
+      "slug": "period-poverty-tips",
+      "type": "tip-list",
+      "title": "Period Poverty: What Every Parent Can Do Right Now",
+      "body": "5 tips for parents to address period poverty and prepare their children for puberty.",
+      "board": "first-period-tips-advice",
+      "board_id": "1126533362981206034",
+      "link_url": "https://theperiodacademy.com",
+      "status": "posted_image_ready",
+      "posted_date": "2026-03-20",
+      "pinterest_pin_id": null,
+      "image_url": "https://raw.githubusercontent.com/steveezell/tpa-pinterest/main/images/2026/03/pin-period-poverty-tips-20260320.png",
+      "notes": "Pinterest posting failed: token missing boards:write scope. Image on GitHub, ready to post manually."
+    },
+    {
+      "slug": "period-confidence-starts-at-home",
+      "type": "affirmation",
+      "title": "Period Confidence Starts at Home",
+      "body": "You don't need to be an expert. One conversation can change everything.",
+      "board": "talking-to-your-daughter-about-puberty",
+      "board_id": "1126533362981206032",
+      "link_url": "https://theperiodacademy.com",
+      "status": "posted_image_ready",
+      "posted_date": "2026-03-20",
+      "pinterest_pin_id": null,
+      "image_url": "https://raw.githubusercontent.com/steveezell/tpa-pinterest/main/images/2026/03/pin-period-confidence-starts-at-home-20260320.png",
+      "notes": "Pinterest posting failed: token missing boards:write scope. Image on GitHub, ready to post manually."
     }
   ]
 }
