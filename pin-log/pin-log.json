@@ -281,11 +281,11 @@
       "board": "period-education-for-kids",
       "board_id": "1126533362981206027",
       "link_url": "https://theperiodacademy.com",
-      "status": "posted_image_ready",
+      "status": "posted",
       "posted_date": "2026-03-20",
       "pinterest_pin_id": null,
       "image_url": "https://raw.githubusercontent.com/steveezell/tpa-pinterest/main/images/2026/03/pin-average-first-period-age-20260320.png",
-      "notes": "Pinterest posting failed: token missing boards:write scope. Image on GitHub, ready to post manually."
+      "notes": "Posted via browser (pin-creation-tool)"
     },
     {
       "slug": "period-poverty-tips",
@@ -295,11 +295,11 @@
       "board": "first-period-tips-advice",
       "board_id": "1126533362981206034",
       "link_url": "https://theperiodacademy.com",
-      "status": "posted_image_ready",
+      "status": "posted",
       "posted_date": "2026-03-20",
       "pinterest_pin_id": null,
       "image_url": "https://raw.githubusercontent.com/steveezell/tpa-pinterest/main/images/2026/03/pin-period-poverty-tips-20260320.png",
-      "notes": "Pinterest posting failed: token missing boards:write scope. Image on GitHub, ready to post manually."
+      "notes": "Posted via browser (pin-creation-tool)"
     },
     {
       "slug": "period-confidence-starts-at-home",
@@ -309,11 +309,11 @@
       "board": "talking-to-your-daughter-about-puberty",
       "board_id": "1126533362981206032",
       "link_url": "https://theperiodacademy.com",
-      "status": "posted_image_ready",
+      "status": "posted",
       "posted_date": "2026-03-20",
       "pinterest_pin_id": null,
       "image_url": "https://raw.githubusercontent.com/steveezell/tpa-pinterest/main/images/2026/03/pin-period-confidence-starts-at-home-20260320.png",
-      "notes": "Pinterest posting failed: token missing boards:write scope. Image on GitHub, ready to post manually."
+      "notes": "Posted via browser (pin-creation-tool)"
     }
   ]
 }
