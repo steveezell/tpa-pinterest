@@ -314,6 +314,42 @@
       "pinterest_pin_id": null,
       "image_url": "https://raw.githubusercontent.com/steveezell/tpa-pinterest/main/images/2026/03/pin-period-confidence-starts-at-home-20260320.png",
       "notes": "Posted via browser (pin-creation-tool)"
+    },
+    {
+      "slug": "early-starters-stat",
+      "type": "stat-card",
+      "title": "15% of Girls Start Before Age 11",
+      "description": "Did you know 15% of girls get their first period before age 11? Is your daughter prepared? Period education by a certified nurse-midwife.",
+      "board": "period-education-for-kids",
+      "link_url": "https://theperiodacademy.com",
+      "status": "posted",
+      "posted_date": "2026-03-21",
+      "image_url": "https://raw.githubusercontent.com/steveezell/tpa-pinterest/main/images/2026/03/pin-early-starters-stat-20260321.png",
+      "notes": "Posted via browser (pin-creation-tool)"
+    },
+    {
+      "slug": "sports-and-periods-tips",
+      "type": "tip-list",
+      "title": "Periods & Sports: 4 Tips for Active Girls",
+      "description": "Don't let your period sideline you! Pack a kit, track your cycle, and know your options. Tips for active girls by a certified nurse-midwife.",
+      "board": "first-period-tips-advice",
+      "link_url": "https://theperiodacademy.com",
+      "status": "posted",
+      "posted_date": "2026-03-21",
+      "image_url": "https://raw.githubusercontent.com/steveezell/tpa-pinterest/main/images/2026/03/pin-sports-and-periods-tips-20260321.png",
+      "notes": "Posted via browser (pin-creation-tool)"
+    },
+    {
+      "slug": "conversation-is-the-kit",
+      "type": "affirmation",
+      "title": "The Conversation IS the Kit",
+      "description": "You don't need the perfect product. You need the conversation. Period confidence starts at home. By a certified nurse-midwife.",
+      "board": "talking-to-your-daughter-about-puberty",
+      "link_url": "https://theperiodacademy.com",
+      "status": "posted",
+      "posted_date": "2026-03-21",
+      "image_url": "https://raw.githubusercontent.com/steveezell/tpa-pinterest/main/images/2026/03/pin-conversation-is-the-kit-20260321.png",
+      "notes": "Posted via browser (pin-creation-tool)"
     }
   ]
 }
