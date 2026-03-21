@@ -350,6 +350,19 @@
       "posted_date": "2026-03-21",
       "image_url": "https://raw.githubusercontent.com/steveezell/tpa-pinterest/main/images/2026/03/pin-conversation-is-the-kit-20260321.png",
       "notes": "Posted via browser (pin-creation-tool)"
+    },
+    {
+      "date": "2026-03-21",
+      "slug": "what-is-a-normal-period",
+      "type": "blog-and-pin",
+      "blog_url": "https://theperiodacademy.com/blog/what-is-a-normal-period",
+      "image_url": "https://raw.githubusercontent.com/steveezell/tpa-pinterest/main/images/2026/03/pin-what-is-a-normal-period-20260321.png",
+      "pinterest_pin_id": null,
+      "board_id": "1126533362981206027",
+      "status": "blog_published_pin_failed",
+      "posted_date": "2026-03-21",
+      "canva_design_id": "DAHEmKPnVuI",
+      "notes": "Blog post published to Supabase (id: 230257da). Canva pin generated and pushed to GitHub. Pinterest posting failed: token missing boards:write scope (401). Pin image ready at GitHub URL for manual posting or token re-auth."
     }
   ]
 }
